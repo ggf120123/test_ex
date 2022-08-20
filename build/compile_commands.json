@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/ggWorkspace/testArea/vscodes/cpp_project/build",
+  "command": "D:\\ggWorkspace\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\cpp_ex.dir\\main.cpp.obj -c D:\\ggWorkspace\\testArea\\vscodes\\cpp_project\\main.cpp",
+  "file": "D:/ggWorkspace/testArea/vscodes/cpp_project/main.cpp"
+}
+]
